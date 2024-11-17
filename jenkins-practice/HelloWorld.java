@@ -1,1 +1,1 @@
-System.out.println("Hello, Jenkins!.");
+System.out.println("Hello, Jenkin!.");
